@@ -19,7 +19,6 @@ export default {
 <style scoped>
 img {
   transition: all 0.3s ease-in-out;
-  height: 250px;
 }
 img:hover {
   transform: scale(1.1);

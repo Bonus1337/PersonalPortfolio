@@ -1,6 +1,6 @@
 export default {
   hello: "CZEŚĆ, JESTEM MACIEJ SZYMAŃSKI",
-  title: "Front-end Developer i mentor programisty",
+  title: "Front-end Developer i Mentor Programistyczny",
   download: "Pobierz CV",
   projectsPortfolio: "Projekty",
   projects: "Projekty",

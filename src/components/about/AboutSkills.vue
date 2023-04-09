@@ -40,8 +40,8 @@ export default {
         },
         {
           id: 7,
-          title: "React.js",
-          img: require("@/assets/images/skills/React.png"),
+          title: "TypeScript",
+          img: require("@/assets/images/skills/TS.png"),
         },
         {
           id: 8,
@@ -50,8 +50,8 @@ export default {
         },
         {
           id: 9,
-          title: "JavaScript",
-          img: require("@/assets/images/skills/TS.png"),
+          title: "React.js",
+          img: require("@/assets/images/skills/React.png"),
         },
       ],
     };

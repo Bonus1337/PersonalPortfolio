@@ -107,7 +107,7 @@ export default {
             :class="{ active: $root.language === 'en' }"
             @click="$root.changeLanguage('en')"
           >
-            US
+            EN
           </button>
         </div>
 

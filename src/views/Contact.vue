@@ -18,7 +18,7 @@ export default {
         },
         {
           id: 2,
-          name: "515 174 788",
+          name: "+48 515 174 788",
           icon: "phone",
         },
         {

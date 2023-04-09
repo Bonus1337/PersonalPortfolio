@@ -1,7 +1,7 @@
 export default {
-  hello: "HI  IAM MACIEJ SZYMAŃSKI",
-  title: "A Front-end Developer & Programmer mentor",
-  download: "Download CV",
+  hello: "HI, I'AM MACIEJ SZYMAŃSKI",
+  title: "A Front-End Developer and Programmer Mentor",
+  download: "Get resume",
   projectsPortfolio: "Projects",
   projects: "Projects",
   about: "About Me",
