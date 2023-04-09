@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs_tailwindcss_portfolio"]=self["webpackChunkvuejs_tailwindcss_portfolio"]||[]).push([[703],{703:function(n,t,s){s.r(t),s.d(t,{default:function(){return d}});var o=s(252);const r={class:"container mx-auto"};function e(n,t,s,e,c,i){const u=(0,o.up)("ProjectsGrid");return(0,o.wg)(),(0,o.iD)("div",r,[(0,o.Wm)(u)])}var c=s(486),i={name:"Projects",components:{ProjectsGrid:c.Z}},u=s(789);const a=(0,u.Z)(i,[["render",e]]);var d=a}}]);
+//# sourceMappingURL=703.46719b4f.js.map
