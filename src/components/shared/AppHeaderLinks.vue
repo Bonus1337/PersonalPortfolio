@@ -22,6 +22,25 @@
       aria-label="Contact"
       >{{ $root.t.contact }}</router-link
     >
+    <!-- Language buttons -->
+    <div
+      class="sm:hidden flex border-t-2 pt-3 sm:pt-2 sm:border-t-0 border-primary-light dark:border-secondary-dark"
+    >
+      <button
+        class="language-button mr-2 text-secondary-dark dark:text-ternary-light"
+        :class="{ active: $root.language === 'pl' }"
+        @click="$root.changeLanguage('pl')"
+      >
+        PL
+      </button>
+      <button
+        class="language-button text-secondary-dark dark:text-ternary-light"
+        :class="{ active: $root.language === 'en' }"
+        @click="$root.changeLanguage('en')"
+      >
+        EN
+      </button>
+    </div>
   </div>
 </template>
 
@@ -31,4 +50,21 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+.language-button {
+  padding: 8px 12px;
+  border-radius: 9999px;
+  font-weight: 500;
+  transition: background-color 0.2s ease-in-out;
+}
+.language-button:hover {
+  background-color: rgba(229, 231, 235, var(--tw-bg-opacity));
+}
+.language-button.active {
+  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
+  color: white;
+}
+.dark .language-button.active {
+  color: white;
+}
+</style>
