@@ -10,7 +10,7 @@ export default {
   followMe: "Follow Me",
   myDescription: `Hi, I’m Maciej Szymański and I’m a frontend developer with passion and ambition. For over two years, I’ve been commercially creating modern and useful web applications for government projects in Angular and Vue.js. I work in a scrum agile system and I know the best programming practices. I graduated with an engineering degree in computer science and I want to continue my education by getting my master’s degree. I’m interested in chess, gym, new technologies, and learning new things. My goal is to make history as one of the best programmers and innovators. I am motivated to show people who previously did not take my words seriously that they were wrong after all. 
 I’m proud of my achievements such as being the chairman of the computer science club for over 4 years during which I have helped new, young, and ambitious students develop their skills. 
-Apart from being the chairman of the student council during the whole year 2022, I completed the Frontend Bootcamp with React and a professional Vue.js 3 course at Kodilla and became a mentor at one of the largest Polish bootcamp "GoIT", where I help people take their first steps in HTML, CSS, Javascript and React.`,
+Apart from being the chairman of the student council during the whole year 2022, I completed the Frontend Bootcamp with React and a professional Vue.js 3 course at Kodilla and became a mentor at one of the largest Polish bootcamps "GoIT", where I help people take their first steps in HTML, CSS, Javascript and React.`,
   experienceTitle: "Years of programming experience",
   commercialExperienceTitle: "Years of commercial programming experience",
   feedbackTitle: "satisfied customers",
